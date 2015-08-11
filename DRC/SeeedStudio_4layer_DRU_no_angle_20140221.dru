@@ -1,4 +1,4 @@
-description[en] = \n\n\n<b>EAGLE Design Rules</b>\n<p>\nThe default Design Rules have been set to cover\na wide range of applications. Your particular design\nmay have different requirements, so please make the\nnecessary adjustments and save your customized\ndesign rules under a new name.\n
+description[en] = <b>SeeedStudio Design Rules</b>\n<p>\nThese deisgn rules should match the requirements for a 4-layer board produced by SeeedStudio.\n</p>
 layerSetup = (1*2*15*16)
 mtCopper = 0.035mm 0.0175mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.0175mm 0.035mm
 mtIsolate = 0.2mm 0.3mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm
