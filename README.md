@@ -2,7 +2,7 @@
 A collection of scripts that I have found, modified or created whilst using Eagle.
 
 ## Installing
-    git clone 
+    git clone (url)
     git submodules init
     git submodule update
 
